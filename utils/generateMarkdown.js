@@ -1,6 +1,8 @@
 // function to generate markdown for README
 function generateMarkdown(data) {
   let license = (data.license !== "None") ? `This project is licensed under the [${data.license} License](LICENSE).` : `${data.license}`;
+  
+  // Use switch statement to add a badge for the selected license.
   let badge = '';
   switch (data.license) {
     case 'MIT':
