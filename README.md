@@ -18,19 +18,6 @@ The Professional README Generator is a command-line tool designed to simplify th
 npm install --save inquirer@^8.0.0
 ````
 
-Clone using the web URL.
-````
-https://github.com/caseygirlyn/Professional-README-Generator.git
-````
-Use a password-protected SSH key.
-````
-git clone git@github.com:caseygirlyn/Professional-README-Generator.git
-````
-Work fast with official CLI.
-````
-gh repo clone caseygirlyn/Professional-README-Generator
-````
-
 ## Usage
 The application will be invoked by using the following command:
 ````
