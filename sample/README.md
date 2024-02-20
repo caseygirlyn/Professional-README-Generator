@@ -11,7 +11,6 @@ The Professional README Generator is a command-line tool designed to simplify th
 - [License](#license)
 - [Contributing](#contributing)
 - [Tests](#tests)
-- [Screen Recording](#screen-recording)
 - [Questions](#questions)
 
 ## Installation
@@ -46,9 +45,6 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 npm test
 ````
 
-## Screen Recording
-
-![Home Page](./assets/Professional-README-Generator.gif)
 
 ## Questions
 Follow me on Github at https://github.com/caseygirlyn.
