@@ -32,7 +32,10 @@ gh repo clone caseygirlyn/Professional-README-Generator
 ````
 
 ## Usage
-Run node index.js
+The application will be invoked by using the following command:
+````
+node index.js
+````
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
