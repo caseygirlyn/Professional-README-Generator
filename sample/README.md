@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 ## Description
-The Professional README Generator is a command-line tool designed to simplify the process of creating README.md files for your projects. Instead of manually writing and formatting the README file, this tool automates the process based on the information you provide.
+The Professional README Generator is a command-line tool designed to simplify the process of creating README.md files for your projects.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -18,19 +18,6 @@ The Professional README Generator is a command-line tool designed to simplify th
 npm install --save inquirer@^8.0.0
 ````
 
-Clone using the web URL.
-````
-https://github.com/caseygirlyn/Professional-README-Generator.git
-````
-Use a password-protected SSH key.
-````
-git clone git@github.com:caseygirlyn/Professional-README-Generator.git
-````
-Work fast with official CLI.
-````
-gh repo clone caseygirlyn/Professional-README-Generator
-````
-
 ## Usage
 Run node index.js
 
@@ -42,7 +29,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## Tests
 ````
-npm test
+npm tests
 ````
 
 

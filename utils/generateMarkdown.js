@@ -38,19 +38,6 @@ ${data.description}
 ${data.cmdInstall}
 \`\`\`\`
 
-Clone using the web URL.
-\`\`\`\`
-https://github.com/caseygirlyn/Professional-README-Generator.git
-\`\`\`\`
-Use a password-protected SSH key.
-\`\`\`\`
-git clone git@github.com:caseygirlyn/Professional-README-Generator.git
-\`\`\`\`
-Work fast with official CLI.
-\`\`\`\`
-gh repo clone caseygirlyn/Professional-README-Generator
-\`\`\`\`
-
 ## Usage
 ${data.useRepo}
 
