@@ -10,7 +10,6 @@ The Professional README Generator is a command-line tool designed to simplify th
 - [Usage](#usage)
 - [License](#license)
 - [Contributing](#contributing)
-- [Tests](#tests)
 - [Screen Recording](#screen-recording)
 - [Questions](#questions)
 
@@ -40,11 +39,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or create a pull request.
-
-## Tests
-````
-npm test
-````
 
 ## Screen Recording
 
