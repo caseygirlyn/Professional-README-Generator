@@ -6,12 +6,29 @@
 The Professional README Generator is a command-line tool designed to simplify the process of creating README.md files for your projects. Instead of manually writing and formatting the README file, this tool automates the process based on the information you provide.
 
 ## Table of Contents
+- [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
 - [Contributing](#contributing)
 - [Screen Recording](#screen-recording)
 - [Questions](#questions)
+
+## Features
+
+- A command-line application that accepts user input
+- When a user is prompted for information about the application repository, a high-quality, professional README.md is generated with: 
+    - **Title of the Project**: The information displayed as the title of the README
+    - **Description**: The information is added to the sections of the README entitled Description
+    - **Table of Contents**: When a user clicks on the links, they are taken to the corresponding section of the README.
+    - **Installation**: The information is added to the sections of the README entitled Installation
+    - **Usage**: The information is added to the sections of the README entitled Usage
+    - **License**: When a user chooses a license for their application from a list of options, a badge for that license is added below the title of the README and a notice is added to the section of the README entitled License that explains which license the application is covered under.
+    - **Contributing**: The information is added to the sections of the README entitled Contributing
+    - **Tests**:  The information is added to the sections of the README entitled Tests
+    - **Questions**: 
+        - When a user enters their GitHub username, it's added to the section of the README entitled Questions, with a link to their GitHub profile.
+        - When a user enters their email address, it's added to the section of the README entitled Questions, with instructions on how to reach them with additional questions.
 
 ## Installation
 ````
