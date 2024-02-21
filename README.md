@@ -49,7 +49,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## Screen Recording
 
-Link to the [Walkthrough Video](https://drive.google.com/file/d/1J13-Mlp4d1VuWfZO6ru96r96UU2GVe0f/view)
+Link to the [Walkthrough Video](https://drive.google.com/file/d/11bvKYq-UshjgifymHgzWzi5nkubaQOb4/view)
 
 ![Home Page](./assets/Professional-README-Generator.gif)
 
